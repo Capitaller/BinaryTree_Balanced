@@ -1,0 +1,13 @@
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\bin\Debug\netcoreapp3.1\Binary_Tree_8_3.exe
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\bin\Debug\netcoreapp3.1\Binary_Tree_8_3.deps.json
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\bin\Debug\netcoreapp3.1\Binary_Tree_8_3.runtimeconfig.json
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\bin\Debug\netcoreapp3.1\Binary_Tree_8_3.runtimeconfig.dev.json
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\bin\Debug\netcoreapp3.1\Binary_Tree_8_3.dll
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\bin\Debug\netcoreapp3.1\Binary_Tree_8_3.pdb
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\obj\Debug\netcoreapp3.1\Binary_Tree_8_3.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\obj\Debug\netcoreapp3.1\Binary_Tree_8_3.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\obj\Debug\netcoreapp3.1\Binary_Tree_8_3.AssemblyInfo.cs
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\obj\Debug\netcoreapp3.1\Binary_Tree_8_3.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\obj\Debug\netcoreapp3.1\Binary_Tree_8_3.dll
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\obj\Debug\netcoreapp3.1\Binary_Tree_8_3.pdb
+C:\Users\Антон\source\repos\Binary_Tree_8_3\Binary_Tree_8_3\obj\Debug\netcoreapp3.1\Binary_Tree_8_3.genruntimeconfig.cache
